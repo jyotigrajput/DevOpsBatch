@@ -1,3 +1,1 @@
-i
-
-ih
+Checking for JIRA integration with github
